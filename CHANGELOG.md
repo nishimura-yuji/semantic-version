@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.1](https://github.com/nishimura-yuji/semantic-version/compare/v0.1.0...v0.1.1) (2019-10-30)
+
+
+### Features
+
+* **branch:** mergetest ([82e6ec6](https://github.com/nishimura-yuji/semantic-version/commit/82e6ec67f20e741cf683715a8bfb5d3f5f6ec7e7))
+
 ## [0.1.0](https://github.com/nishimura-yuji/semantic-version/compare/v0.0.2...v0.1.0) (2019-10-30)
 
 
